@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/MI8953-Project/android_kernel_xiaomi_msm8953",
-      "branch": "dts/haptics",
-      "device": "rosy",
+      "repo": "https://github.com/Alts-Project/msm-4.14",
+      "branch": "msm89xx",
+      "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
     "toolchains": [
