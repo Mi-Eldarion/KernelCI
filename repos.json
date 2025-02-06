@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel",
       "repo": "https://github.com/Mi-Eldarion/msm-4.19",
-      "branch": "4.19-next",
+      "branch": "qti-haptic",
       "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
