@@ -95,11 +95,7 @@ jobs:
 
       - name: "Clone kernel-dts source"
         run: |
-          git clone https://github.com/Mi-Eldarion/kernel_devicetree-ysl-4.19 -b main --depth=1 kernel/arch/arm64/boot/dts/vendor/qcom/ysl
-
-      - name: "Clone qcom-wlan source"
-        run: |
-          git clone https://github.com/Mi-Eldarion/vendor_qcom_opensource_wlan_prima -b wlan/LA.UM.9.6.4/mithorium/master --depth=1 kernel/drivers/staging/prima
+          git clone https://github.com/Mi-Eldarion/kernel_devicetree-ysl-4.19 -b qti-haptic --depth=1 kernel/arch/arm64/boot/dts/vendor/qcom/ysl
 
       - name: "Clone kernel-techpack source"
         run: |
