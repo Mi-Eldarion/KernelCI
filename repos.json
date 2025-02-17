@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Mi-Eldarion/msm-4.19",
-      "branch": "qti-haptic",
+      "repo": "https://github.com/Mi-Eldarion/android_kernel_xiaomi_ysl-4.19",
+      "branch": "lineage-20",
       "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
