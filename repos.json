@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Mi-Eldarion/ysl-4.19",
-      "branch": "lineage-20",
-      "device": "ysl",
+      "repo": "https://github.com/Mi-Eldarion/vince-msm4.19",
+      "branch": "WIP",
+      "device": "vince",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
     "toolchains": [
