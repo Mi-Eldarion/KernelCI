@@ -9,8 +9,8 @@
   },
     "toolchains": [
       {
-        "repo": "https://github.com/kdrag0n/proton-clang",
-        "branch": "master",
+        "repo": "https://gitlab.com/nekoprjkt/aosp-clang",
+        "branch": "17",
         "name": "proton-clang",
         "binPath": ["bin"]
       }
