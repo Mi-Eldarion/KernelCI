@@ -9,8 +9,8 @@
   },
     "toolchains": [
       {
-        "repo": "https://gitlab.com/nekoprjkt/aosp-clang",
-        "branch": "17",
+        "repo": "https://gitlab.com/GhostMaster69-dev/cosmic-clang",
+        "branch": "master",
         "name": "proton-clang",
         "binPath": ["bin"]
       }
