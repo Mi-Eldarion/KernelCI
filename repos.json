@@ -9,7 +9,7 @@
   },
     "toolchains": [
       {
-        "repo": "https://gitlab.com/GhostMaster69-dev/cosmic-clang",
+        "repo": "https://github.com/kdrag0n/proton-clang",
         "branch": "master",
         "name": "proton-clang",
         "binPath": ["bin"]
