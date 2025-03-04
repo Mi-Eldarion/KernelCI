@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel",
       "repo": "https://github.com/Mi-Eldarion/mainline-experiment",
-      "branch": "lineage-20",
+      "branch": "ysl/master",
       "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
