@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Mi-Eldarion/mainline-experiment",
+      "repo": "https://github.com/Mi-Eldarion/msm-4.19",
       "branch": "ysl/camera/legacy",
       "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
